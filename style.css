@@ -1,0 +1,53 @@
+.box{
+    width: 250px; 
+    text-align: center;
+   box-shadow: 3px 4px 3px rgb(114, 114, 52);
+   background-color: rgb(190, 209, 224);
+}
+.box .top span{
+    background-color: rgb(196, 143, 73);
+    color: rgb(220, 226, 231);
+    border-radius: 4px;
+}
+.box .contains h3 a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box .contains h3 a:hover {
+    color: rgb(221, 245, 7);
+}
+.box .taka{
+    text-align: center;
+    color: rgb(238, 32, 5);
+    padding: 10px;
+    margin: 5px;
+}
+.box .taka .btn2{text-decoration: line-through;
+    color: black;
+    
+}
+.box button{
+    width: 100%;
+    padding: 10px;
+    border:none;
+}
+.box .tui{
+    margin-bottom: 12px;
+    color: rgb(62, 98, 196);
+    cursor: pointer;
+}
+.box .ami{
+    margin-bottom: 12px;
+    color: rgb(44, 88, 207);
+    cursor: pointer;
+}
+.box .ami:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+.box .tui:hover{
+     background-color: blue;
+     color: aliceblue;
+}
+
